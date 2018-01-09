@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "89a6b1bc3a267b1a7e1a2c5324c81e15",
+    "content-hash": "e189dd600e2b0b3436333f9b5445afee",
     "packages": [
         {
             "name": "bosnadev/repositories",
@@ -4840,7 +4840,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.5.9"
+        "php": ">=5.5.9 <7.2"
     },
     "platform-dev": []
 }
